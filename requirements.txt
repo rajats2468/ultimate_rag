@@ -2,7 +2,7 @@ langchain
 langchain-community
 langchain-groq
 langgraph
-pinecone-client
+pinecone
 pinecone-text
 sentence-transformers
 transformers
